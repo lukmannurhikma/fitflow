@@ -1,0 +1,4 @@
+{
+  "installCommand": "npm install --no-package-lock --audit false --fund false",
+  "buildCommand": "npm run build:vercel"
+}
